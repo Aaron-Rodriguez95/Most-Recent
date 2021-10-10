@@ -3,4 +3,3 @@
 
     // Int Core Library
     $init = new Core();
-    //var_dump($_SESSION);
